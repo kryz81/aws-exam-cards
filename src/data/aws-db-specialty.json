@@ -1,0 +1,12 @@
+[
+  {
+    "front": "Aurora supports BACKTRACK only for the database",
+    "back": "MySQL",
+    "tags": ["Aurora"]
+  },
+  {
+    "front": "Aurora stores automatic backups on",
+    "back": "S3",
+    "tags": ["Aurora"]
+  }
+]
